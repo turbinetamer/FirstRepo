@@ -2,6 +2,7 @@
 import cv2
 import os
 
+# Count Hummingbirds or similar object detection
 fnum = 1
 record = True
 finished = False
